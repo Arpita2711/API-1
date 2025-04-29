@@ -1,7 +1,5 @@
 # API-1
-Here’s a clean, professional README template for a Python-based Call Log API repository — using FastAPI as the framework. You can copy, modify, or extend this depending on your exact use case:
 
-📄 README.md
 
 # 📞 Call Log API
 
